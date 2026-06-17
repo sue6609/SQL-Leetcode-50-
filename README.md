@@ -8,6 +8,8 @@
 
 ## Sorting and Grouping
 - [2356. Number of Unique Subjects Taught by Each Teacher (Easy)](./Sorting_and_Grouping/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)
+- [1045. Customers Who Bought All Products (Medium)](./Sorting_and_Grouping/1045.%20Customers%20Who%20Bought%20All%20Product.md)
+
 ---
 
 ## Window Functions
